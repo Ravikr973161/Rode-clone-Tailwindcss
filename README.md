@@ -18,8 +18,8 @@ This framework helped me to build production ready code quikly for both desktop 
 
 ### Here's the Live Deployed Website:
 
-[Live Link !](https://leafy-mermaid-144b61.netlify.app)
+[Live Link !](https://statuesque-tulumba-321c17.netlify.app)
 
-![Web Site Image](./assets/screencapture-127-0-0-1-5500-index-html-2022.png)
+![Web Site Image](./screencapture-127-0-0-1-5500-2022.png)
 
 #### This project took around 15 hours to complete.
